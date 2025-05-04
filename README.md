@@ -4,7 +4,10 @@
 <ul>
   <li>Hindustan Times is an Indian English-language daily newspaper founded in 1924 by Sunder Singh Lyallpuri, founder-father of the Akali movement and the Shiromani Akali Dal in the Punjab Province. It played integral roles in the Indian independence movement as a nationalist daily.</li>
   <li>
-   
+   The Hindustan Times Clone is a web development project built by a team of six passionate developers from Masai School’s Web-16 batch as part of our Unit-3 Construct Week. Inspired by one of India’s leading English-language newspapers, this clone replicates the core functionality and visual aesthetics of the Hindustan Times website. It showcases a seamless user interface where users can explore various news categories, headlines, and featured articles in a clean and responsive layout.
+  </li>
+  <li>
+   This project was developed using technologies such as HTML5, CSS3, JavaScript, and Bootstrap. It emphasizes component-based structuring, collaborative version control using Git & GitHub, and mobile-first responsive design principles. The goal of this project was not only to replicate a real-world news platform but also to enhance our team’s skills in UI/UX, team collaboration, and agile workflows. This clone serves as a demonstration of our ability to understand design systems and deliver functional web experiences from scratch.
   </li>
 </ul>
 
